@@ -2,12 +2,12 @@
     {
         "nom": "T\u00e9l\u00e9phone",
         "prix": 3500,
-        "stock": 1
+        "stock": 5
     },
     {
         "nom": "Casque",
         "prix": 400,
-        "stock": 6
+        "stock": 10
     },
     {
         "nom": "Tablette",
